@@ -4,11 +4,11 @@ If you are not familiar with linters and GitHub Actions, read [root level README
 
 ## Set-up GitHub Actions
 
-This GitHub Action is going to run [Rubocop](https://docs.rubocop.org/en/stable/) and [Stylelint](https://stylelint.io/) to help you find style issues.
+This GitHub Action is going to run [Rubocop](https://docs.rubocop.org/rubocop/1.69/index.html) and [Stylelint](https://stylelint.io/) to help you find style issues.
 
 [Stylelint](https://stylelint.io/) is a linter for your stylesheets that helps you avoid errors and enforce conventions.
 
-[Rubocop](https://docs.rubocop.org/en/stable/) is a Ruby static code analyzer (a.k.a. linter) and code formatter. It will enforce many of the guidelines outlined in the community [Ruby Style Guide](https://rubystyle.guide/).
+[Rubocop](https://docs.rubocop.org/rubocop/1.69/index.html) is a Ruby static code analyzer (a.k.a. linter) and code formatter. It will enforce many of the guidelines outlined in the community [Ruby Style Guide](https://rubystyle.guide/).
 
 Please do the following **steps in this order**:
 

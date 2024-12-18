@@ -80,4 +80,4 @@ Make sure that you do not modify the [`.github/workflows/linters.yml`](.github/w
 ## Troubleshooting
 
 - If you are building an API only Rails application
-For API only Rails application you can remove the Stylelint config. To do so remove line no. [23](https://github.com/TheDevMBA/linters-config/blob/f0c812753d0418288c404ed4a441a2e7370e9f4e/ror/.github/workflows/linters.yml#L23) to [36](https://github.com/TheDevMBA/linters-config/blob/f0c812753d0418288c404ed4a441a2e7370e9f4e/ror/.github/workflows/linters.yml#L36) from the [linter.yml]((https://github.com/TheDevMBA/linters-config/blob/main/ror/.github/workflows/linters.yml)) file.
+For API only Rails application you can remove the Stylelint config. To do so remove line no. [23](https://github.com/TheDevMBA/linters-config/blob/52c369fd4839e6b54116ad7a055603047469dede/ror/.github/workflows/linters.yml#L23) to [36](https://github.com/TheDevMBA/linters-config/blob/52c369fd4839e6b54116ad7a055603047469dede/ror/.github/workflows/linters.yml#L36) from the [linter.yml]((https://github.com/TheDevMBA/linters-config/blob/main/ror/.github/workflows/linters.yml)) file.
